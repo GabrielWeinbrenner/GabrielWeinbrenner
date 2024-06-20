@@ -16,7 +16,7 @@ I specialize in creating interactive experiences, and I have a strong passion fo
 
 I'm currently involved in a variety of projects that span different domains and technologies. Here are a few highlights:
 
-- **Procedural Sandbox:** A project focused on procedural content generation in VisionOS, creating dynamic and unique environments.
+- **[Particle Simulation](https://apps.apple.com/us/app/particle-simulation/id6479706693):** A project focused on creating custom particles for VisionOS
 - **Elemental Bending:** An interactive application that allows users to control and bend elements like water, fire, and air using VisionOS.
 - **Chess in VisionOS:** An interactive chess game developed for VisionOS, showcasing advanced AI for game mechanics.
 
